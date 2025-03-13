@@ -1,0 +1,5 @@
+gradio==4.12.0               # For building the web interface
+pandas==2.1.4                # For CSV data handling and manipulation
+matplotlib==3.8.0            # For generating graphs and visualizations
+requests==2.31.0             # For making HTTP requests to Ollama API
+pydantic==2.5.2              # For data validation and response modeling
